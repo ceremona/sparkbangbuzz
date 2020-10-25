@@ -1,5 +1,4 @@
-# http://ceremona.github.io/sparkbangbuzz
-#
+## http://ceremona.github.io/sparkbangbuzz
 # This is a github mirror of http://sparkbangbuzz.com 
 ## The brilliant experiments of Nyle Steiner, who creates complex physical phenomena using commonly available materials.
 
