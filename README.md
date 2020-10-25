@@ -1,5 +1,4 @@
-# sparkbangbuzz-mirror
-Mirror of the brilliant website http://sparkbangbuzz.com - showing his experiments in creating complex physcial phenomena using only basic materials.
+# sparkbangbuzz - A mirror of the brilliant website http://sparkbangbuzz.com - showing his experiments in creating complex physcial phenomena using only basic materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
 to archive his fantastic experiments for posterity.  (Hoping Nyle is still alive and kicking).  
@@ -8,4 +7,4 @@ This is a (static) mirror site of sparkbangbuzz.com, created from the brilliant 
 Additional work and documenation from him can be found at: 
 https://www.youtube.com/user/nylesteiner/videos
 
-Know that this mirror was created out of respect for Nyle's work with no intention to take credit. 
+**_Know that this mirror was created out of respect for Nyle's work with no intention to take credit._** 
