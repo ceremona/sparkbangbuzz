@@ -1,4 +1,4 @@
-# sparkbangbuzz - a mirror website of http://sparkbangbuzz.com 
+# This is a mirror website of http://sparkbangbuzz.com 
 ## The experiments of Nyle Steiner, who creates brilliant complex physical phenomena using commonly available materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
