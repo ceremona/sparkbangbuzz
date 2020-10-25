@@ -1,5 +1,5 @@
 # sparkbangbuzz-mirror
-Mirror of the brilliant website sparkbangbuzz.com
+Mirror of the brilliant website http://sparkbangbuzz.com - detailing his fantastic experiments with creating complex phenomena out of basic materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
 to archive his fantastic experiments for posterity.  
