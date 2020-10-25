@@ -8,4 +8,4 @@ This is a (static) mirror site.
 Additional work and documenation from him can be found at: 
 https://www.youtube.com/user/nylesteiner/videos
 
-**_Know that this mirror was created out of respect and admiration for Nyle's work with no intention to take credit for his work._** 
+**_Know that this mirror was created out of respect and admiration for Nyle Steiner, with no intention to take credit for his work._** 
