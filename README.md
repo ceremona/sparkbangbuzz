@@ -1,5 +1,5 @@
 # sparkbangbuzz - a mirror webstie of the brilliant website http://sparkbangbuzz.com 
-## Showing the experiments of Nyle Steiner, who creates complex physcial phenomena using only basic materials.
+## The experiments of Nyle Steiner, who creates complex physcial phenomena using only basic materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
 to archive his fantastic experiments for posterity.  (Hoping Nyle is still alive and kicking).  
