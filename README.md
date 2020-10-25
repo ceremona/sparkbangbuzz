@@ -1,5 +1,4 @@
-## http://ceremona.github.io/sparkbangbuzz
-# This is a github mirror of http://sparkbangbuzz.com 
+## http://ceremona.github.io/sparkbangbuzz - a github mirror of http://sparkbangbuzz.com 
 ## A website of Nyle Steiner's brilliant electronics & materials science experiments using commonly available materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
