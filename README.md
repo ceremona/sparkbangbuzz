@@ -1,6 +1,6 @@
 ## http://ceremona.github.io/sparkbangbuzz
 # This is a github mirror of http://sparkbangbuzz.com 
-## The brilliant experiments of Nyle Steiner, who creates complex physical phenomena using commonly available materials.
+## A website of Nyle Steiner's brilliant electronics & materials science experiments using commonly available materials.
 
 It has been a minute (several years) since any new material has been added to the original site, so I wanted 
 to archive his fantastic experiments for posterity.  (Hoping Nyle is still alive and kicking, but I am honestly not so sure).  
